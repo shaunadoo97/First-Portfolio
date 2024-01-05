@@ -1,3 +1,2 @@
 Hello. welcome to my first Portfolio Project 
-I've made a page about my art.
-Is this working?
+I've made a page about my art. 
