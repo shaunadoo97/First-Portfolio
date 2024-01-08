@@ -8,15 +8,48 @@
     box-sizing: border-box;
 }
 
+.header {
+    position:fixed;
+    left:0;
+    width:100%;
+    padding:15px;
+    background:red;
+    display: flex;
+    justify-content: flex-start;
+    letter-spacing: 3px;
+    font-size:50%;
+}
+
+#menu {
+    
+}
+
 body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
     font-family: 'kanit',sans-serif;  
     background-color: #455054;
+    
 }
+
+main {
+
+    background-color: lightblue;
+    flex: 1 0 auto;
+}
+
+
+
+
 
 #header {
     background: url('../images/Tiger-drawing.jpg') no-repeat top center / cover;
-    height: 50vh;
+    min-height: 50vh;
     size: 80%;
     
 }
+
+
+
 
