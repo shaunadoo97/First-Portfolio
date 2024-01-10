@@ -71,6 +71,7 @@ main {
     text-align: center;
  }
 
+ /*Photo of me but will need to change*/
  #picture {
     position: relative;
     width: 200px;
@@ -83,16 +84,23 @@ main {
     margin-right: 50%;
     margin-bottom: 50px;
  }
-/*Footer*/
+
+
+/*Footer, reference from LoveRunning*/
 #social-media {
     list-style-type: none;
     text-align: center;
     padding: 12px;
     display: flex;
     justify-content:space-evenly;
-    font-size: 200%;
+    
 }
 
+#social-media i {
+    font: size 200%;
+    color:#f0e6e6;
+}
+  
  footer {
     background-color: #2c2f31;
  }
