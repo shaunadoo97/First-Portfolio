@@ -83,6 +83,15 @@ main {
     margin-right: 50%;
     margin-bottom: 50px;
  }
+/*Footer*/
+#social-media {
+    list-style-type: none;
+    text-align: center;
+    padding: 12px;
+    display: flex;
+    justify-content:space-evenly;
+    font-size: 200%;
+}
 
  footer {
     background-color: #2c2f31;
