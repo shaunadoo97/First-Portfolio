@@ -84,14 +84,6 @@ main {
     margin-bottom: 50px;
  }
 
- /*social networks*/
- 
- #social-media i {
-    color: white;
- }
-
  footer {
-    
-    background-color: #2c2f31;
-   
+    color:#2c2f31
  }
