@@ -73,8 +73,7 @@ main {
 
  #picture {
     position: relative;
-    size:10%;
-    width: 35%;
+    width: 200px;
     min-height:200px;
     background-color: rgb(177, 223, 109, 0.5);
     border-radius: 5px;
