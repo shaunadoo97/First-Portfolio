@@ -13,12 +13,12 @@
     display: flex;
     flex-direction: column;
     font-family: 'kanit',sans-serif;  
-    color: #353d41;
+   
     }
 
-    .heading {
-        width:90%;
-    }
+    
+        
+    
 
     nav {
         background-color: #2c2f31;
@@ -60,6 +60,29 @@
 main {
      background-color: #353d41;
      flex: 1 0 auto;
+}
+
+.heading {
+    width:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    margin:40px auto;
+}
+
+.heading h1 {
+    position:relatyive;
+    font-size: 250%;
+    color:white;
+
+}
+
+.container {
+    width:100%;
+    margin: 0 auto;
+    padding:10px 50px;
+
 }
 
 footer {
