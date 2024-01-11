@@ -151,8 +151,10 @@ footer {
 
 /**Gallery Page**/
 
-#photos {
+.photos {
     clear: both;
+    display: inline-block;
+    margin: 20px;
 }
 
   
