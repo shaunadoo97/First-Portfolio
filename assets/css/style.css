@@ -72,17 +72,15 @@ main {
 }
 
 .heading h1 {
-    position:relatyive;
+    position:relative;
     font-size: 250%;
     color:white;
 
 }
 
-.container {
-    width:100%;
-    margin: 0 auto;
-    padding:10px 50px;
-
+.wrapper {
+    margin: 150px auto;
+    width:40%;
 }
 
 footer {
