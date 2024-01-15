@@ -7,7 +7,15 @@ I've made a page about my art.
 
 2. As a user, I would expect to see an introduction of the person themself to explain why they like art, what is their passion and especially the type of art they do.
 
-2. As a user in art, I would love to see a variety of art pieces they worked on and make a Gallery of it to show people an idea on what they can do. 
+3. As a user in art, I would love to see a variety of art pieces they worked on and make a Gallery of it to show people an idea on what they can do. 
+
+4. As a user, I would expect to see description of each piece that was created by the Artist
+
+5. As a user, I would expect to see a Gallery and Contact me that is easily used in the Navigation Bar.
+
+6. I would expect to see the social medias link as most artists are now sharing their work through social medias.
+
+7. If i would like to contact the artist if I'm interested, getting in touch should be no problem. 
 
 
 
