@@ -1,5 +1,13 @@
 Hello. welcome to my first Portfolio Project 
-I've made a page about my art. 
+I've made a page about my art
+
+# Contents 
+<details open>
+
+<summary><a>My Goals</a></summary>
+
+
+
 
 ## User Stories
 
@@ -19,7 +27,10 @@ I've made a page about my art.
 
 
 
+<details open>
 
+
+<summary><a>How I deployed my project.</a></summary>
 
 ## Deployment 
 
@@ -39,5 +50,7 @@ Click save after this step and a confirmation of deployment should be confirmed 
 
 To know this, a green colored box with message is received saying "Your site is published at" with a web address. 
 
+
+# Testing 
 
 
