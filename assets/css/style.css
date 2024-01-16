@@ -129,6 +129,11 @@ main {
 
 }
 
+#ed {
+    display: flex;
+    justify-content: end;
+}
+
 /***Social Medias to be represented at bottom ***/
 #social-media {
     list-style-type: none;
