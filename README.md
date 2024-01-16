@@ -53,5 +53,6 @@ To know this, a green colored box with message is received saying "Your site is 
 
 # Testing 
 
+So far, index.html and gallery.html has been tested with no errors,
 
 
