@@ -115,6 +115,12 @@ main {
     box-shadow: 2px 2px #2c2f31;
 }
 
+#history-art {
+    display: flex;
+    align-items: center;
+    
+}
+
 #history {
   
     width:20%;
@@ -131,7 +137,11 @@ main {
 
 #ed {
     display: flex;
-    justify-content: end;
+    justify-content:center;
+    padding: 15px;
+    border-radius: 15px;
+    margin-bottom: 10%;
+    top:20%;
 }
 
 /***Social Medias to be represented at bottom ***/
