@@ -103,6 +103,7 @@ main {
     border: 2px solid white;
     border-radius: 15px;
     margin-left: 20%;
+    margin-bottom: 5%;
 }
 
 #text-container {
@@ -114,12 +115,12 @@ main {
     box-shadow: 2px 2px #2c2f31;
 }
 
-#materials {
+#history {
   
     width:20%;
-    height:70%;
+    height:80%;
     padding: 15px;
-    margin-top: 20px;
+    margin-top: 40px;
     margin-left: 10%;
     background-color:rgb(177, 223, 109, 0.5);
     border-radius:10px;
