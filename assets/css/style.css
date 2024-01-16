@@ -67,7 +67,7 @@ main {
     background-color: #353d41;
     flex: 1 0 auto;
     color: white;
-    margin-top:47px;
+    margin-top:20px;
     
 }
 
@@ -254,6 +254,7 @@ footer {
     font-size: 200%;
     margin: 30px;
     color: rgb(177, 223, 109, 0.5);
+    margin-bottom: 47px;
 }
 
 .txtb {
@@ -272,7 +273,9 @@ footer {
 }
 
 .btn {
-    display: block;
+    font-size: 120%;
+    justify-content: center;
+    margin-top: 15px;
     background:rgb(177, 223, 109, 0.5);
     padding: 10px 0;
     color: white;
