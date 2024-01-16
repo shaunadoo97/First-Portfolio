@@ -7,11 +7,9 @@ I've made a page about my art
 <summary><a>My Goals</a></summary>
 
 
-
-
 ## User Stories
 
-1. As a User interested interested in Art/Drawing, I would like to see more artists promoting their work through a website rather on social medias. 
+1. As a User interested in Art/Drawing, I would like to see more artists promoting their work through a website rather on social medias. 
 
 2. As a user, I would expect to see an introduction of the person themself to explain why they like art, what is their passion and especially the type of art they do.
 
@@ -26,13 +24,17 @@ I've made a page about my art
 7. If i would like to contact the artist if I'm interested, getting in touch should be no problem. 
 
 
+## My wireframes 
+These are my wireframes that i hope to aim for the final product.
+<img src="assets/documentation/Website Home.png"> 
 
-<details open>
 
-
-<summary><a>How I deployed my project.</a></summary>
+<br>
 
 ## Deployment 
+<summary><a>How I deployed my project.</a></summary>
+<details open>
+
 
 My project was deployed by using the Github pages. 
 
