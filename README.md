@@ -55,3 +55,5 @@ To know this, a green colored box with message is received saying "Your site is 
 
 So far, index.html and gallery.html has been tested with no errors.
 
+<img src="assets/documentation/code_screenshot.png">
+
