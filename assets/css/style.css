@@ -65,7 +65,8 @@ main {
     background-color: #353d41;
     flex: 1 0 auto;
     color: white;
-    margin-top: 47px;
+    margin-top:47px;
+    
 }
 
 /**Heading of About me for Homepage refernce from Learn Web**/
@@ -90,16 +91,17 @@ main {
     height:50%;
     padding:15px;
     float:right;
-    margin-top: 3%;
-    margin-right: 80px;
+    margin-top: 5%;
+    margin-right: 20%;
+    border: 2px solid #f0e6e6;
 }
 
 .about-image {
     display: flex;
     justify-content: center;
     border: 2px solid white;
-    
-    margin-left: 30%;
+    border-radius: 15px;
+    margin-left: 20%;
 }
 
 #text-container {
@@ -176,7 +178,16 @@ footer {
 
 /**Gallery Page Credits to**/
 
-
+#my-gallery {
+    width:30%;
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    padding: 15px;
+    margin: 10px auto;
+    font-size: 300%;
+}
 .gallery {
     border: 1px solid;
 }
