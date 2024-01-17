@@ -26,7 +26,18 @@ I've made a page about my art
 
 ## My wireframes 
 These are my wireframes that i hope to aim for the final product.
-<img src="assets/documentation/Website Home.png"> 
+Website:
+
+<img src="assets/documentation/Website Home.png" width="400" height="200"> 
+<img src="assets/documentation/Website Gallery .png" width="400" height="200"> 
+<img src="assets/documentation/Website Contact .png" width="400" height="200"> 
+
+Phone: 
+
+<img src="assets/documentation/Home Phone.png" width="250" height="400">
+<img src="assets/documentation/Gallery Phone.png" width="250" height="400">
+<img src="assets/documentation/Contact Phone.png" width="250" height="400">
+
 
 
 <br>
@@ -57,5 +68,5 @@ To know this, a green colored box with message is received saying "Your site is 
 
 So far, index.html and gallery.html has been tested with no errors.
 
-<img src="assets/documentation/code_screenshot.png">
+<img src="assets/documentation/code_screenshot.png" width="400" height="200">
 
