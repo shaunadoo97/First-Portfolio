@@ -58,6 +58,10 @@ ul li a {
     color: white;
 }
 
+.active a:hover {
+    background-color: #3a3a3a;
+}
+
 
 
 /* Main content */
@@ -121,8 +125,7 @@ main {
 
 #history-art {
     display: flex;
-    width: 75%x;
-    border-radius: 50PX;
+    width: 75%;
     align-items: center;
     margin-top: 20PX;
     
@@ -150,13 +153,36 @@ main {
     top:10%;
 }
 
+#process {
+    position: relative;
+    width:50%;
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    padding: 15px;
+    margin: 30px auto;
+    
+}
+
+
+
+#progress {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 20px 0;
+
+}
+    
+
 /***Social Medias to be represented at bottom ***/
 #social-media {
     list-style-type: none;
     text-align: center;
     padding: 12px;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
 
 }
 
@@ -171,7 +197,8 @@ footer {
     background-color: #2c2f31;
 }
 
-@media screen and (min-width:500px) {
+@media screen and (min-width:679px) {
+
     .responsive-gallery {
         width: 50%;
 
