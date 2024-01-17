@@ -38,6 +38,9 @@ Phone:
 <img src="assets/documentation/Gallery Phone.png" width="250" height="400">
 <img src="assets/documentation/Contact Phone.png" width="250" height="400">
 
+## My Colour Schemes 
+This is my color scheme: 
+<img src="assets/documentation/colour.png" >
 
 
 <br>
