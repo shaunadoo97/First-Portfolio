@@ -75,3 +75,7 @@ So far, index.html and gallery.html has been tested with no errors.
 
 ## Credits and Codes
 
+Ensuring that I will mention and credit to those who helped me.
+
+
+YouTube:
