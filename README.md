@@ -73,3 +73,5 @@ So far, index.html and gallery.html has been tested with no errors.
 
 <img src="assets/documentation/code_screenshot.png" width="400" height="200">
 
+## Credits and Codes
+
