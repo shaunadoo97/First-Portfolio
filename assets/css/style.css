@@ -129,7 +129,8 @@ main {
 }
 
 #intro {
-    width: 50%;
+    width: 47%;
+    line-height: 200%;
     background-color: #7a8e57;
     padding: 15px;
     border-radius: 15px;
@@ -141,37 +142,24 @@ main {
 
 #image-intro {
     border:  2px solid white;
-    margin-left: 10%;
-}
-
-
-    
-
-
-
-#history-art {
-    display: flex;
-    width: 75%;
-    align-items: center;
-    margin-top: 20PX;
-    
-}
-
-#history {
-    position: relative;
-    text-align: center;
-    width: 22%;
-    height:50%;
-    padding:20px;
-    float:left;
-    margin-bottom: 30px; 
     margin-left: 15%;
-    background-color: rgb(177, 223, 109, 0.5);
-
 }
 
 
+#step-container {
+    position: relative;
+    width: auto;
+    padding: 20px;
+    margin: 0 auto;
 
+}
+
+#progress {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 20px;
+}
 #process {
     position: relative;
     width:50%;
@@ -184,19 +172,24 @@ main {
     
 }
 
-#process {
-
-    font-size: 100%;
+#instructions {
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    margin: 30px auto;
 }
 
-#progress {
-    display:flex;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
-    margin: 20px;
-
+.texts {
+    font-size: 150%;
+    background-color: #7a8e57;
+    border-radius: 5px;
 }
+
     
+.steps {
+    padding: 20px;
+    margin-right: 20px;
+}
 
 /***Social Medias to be represented at bottom ***/
 #social-media {
@@ -219,13 +212,14 @@ footer {
     background-color: #2c2f31;
 }
 
-@media screen and (min-width:679px) {
+@media screen and (max-width:679px) {
 
     .responsive-gallery {
         width: 50%;
 
     }
 
+  
 
 }
 
@@ -237,9 +231,9 @@ footer {
         margin: 6px 0;
     }
 
-    #me-container {
-        display: block;
-    }
+ 
+     
+
 
    
 
