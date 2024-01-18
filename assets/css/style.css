@@ -115,15 +115,36 @@ main {
 
 }
 
+#me {
+    margin: 20px;
+    display: block;
 
-.about-image {
-    
-    margin-left: 20%;
-    border: 2px solid white;
-    border-radius: 15px;
-    
+}
+
+.all-intro {
+    display: flex;
+    justify-content: center;
+    padding: 15px;
     
 }
+
+#intro {
+    width: 50%;
+    background-color: #7a8e57;
+    padding: 15px;
+    border-radius: 15px;
+    
+
+
+}
+
+#image-intro {
+    border:  2px solid white;
+}
+
+
+    
+
 
 
 #history-art {
