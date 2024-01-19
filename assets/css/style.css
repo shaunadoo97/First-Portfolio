@@ -244,32 +244,7 @@ footer {
     background-color: #2b2f31;
 }
 
-@media screen and (max-width:679px) {
 
-    .responsive-gallery {
-        width: 50%;
-
-    }
-
-  
-
-}
-
-
-@media screen and (min-width: 768px) {
-    .responsive-gallery {
-        
-        width: 50%;
-        margin: 6px 0;
-    }
-
- 
-     
-
-
-   
-
-}
 
 
 /**Gallery Page Credits to**/
@@ -352,19 +327,71 @@ footer {
 
 }
 
-@media screen and (max-width: 700px) {
+/**Media queries**/
+
+@media screen and (max-width: 576px) {
+
+    #about {
+        position: relative;
+        width: 100%;
+        margin-top: 40%;
+
+    }
+
+    .all-intro {
+        flex-wrap: wrap;
+        padding-left: 15px;
+        
+    }
+
+    #overall {
+        flex-wrap: wrap;
+    }
+
+    #instructions {
+        flex-wrap: wrap;
+    }
+
+    .steps {
+        padding:0%;
+    }
+
+    #commissions {
+        font-size: 200%;
+    }
+
+    #process {
+        width: 100%;
+    }
+
+    #my-galery {
+        width: 100%;
+        font-size: 100%;
+    }
+
     
 }
 
 
-
-
-
-
+    
+@media screen and (min-width:679px) 
+{
+    
         
+    }
 
-/**Contact***/
+    .responsive-gallery {
+        width: 50%;
+
+    }
 
 
 
-@media screen and (max-width: 700px) {}
+
+@media screen and (min-width: 768px) {
+    .responsive-gallery {
+        
+        width: 50%;
+        margin: 6px 0;
+    }
+}
