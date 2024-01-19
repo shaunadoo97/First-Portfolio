@@ -188,6 +188,42 @@ main {
     margin-right: 20px;
 }
 
+#list {
+    position: relative;
+    width:100%;
+    margin: 20px;
+    display: block;
+    
+}
+
+#commissions {
+    padding: 15px;
+    margin: auto;
+    font-size: 280%;
+    text-align: center;
+   
+}
+
+#overall {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+   
+}
+
+.how {
+   width:60%;
+   padding: 20px;
+   margin-right: 20px;
+   background-color: #62724e;
+   border-radius: 15px;
+   border: 1px solid #f0e6e6;
+   text-align: center;
+}
+
+
+
 /***Social Medias to be represented at bottom ***/
 #social-media {
     list-style-type: none;
