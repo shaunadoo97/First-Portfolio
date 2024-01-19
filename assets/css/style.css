@@ -105,7 +105,7 @@ main {
     width: 30%;
     height:100%;
     padding: 15px;
-    background-color:#7a8e57;
+    background-color: #627542;
     border-radius:10px;
     box-shadow: 2px 2px #1b1d1e;
     margin-right: 40px;
@@ -128,7 +128,7 @@ main {
 #intro {
     width: 47%;
     line-height: 200%;
-    background-color: #7a8e57;
+    background-color: #627542;
     padding: 15px;
     border-radius: 15px;
     margin-left: 10%;
@@ -178,7 +178,7 @@ main {
 
 .texts {
     font-size: 150%;
-    background-color: #7a8e57;
+    background-color: #627542;
     border-radius: 5px;
 }
 
@@ -215,7 +215,7 @@ main {
    width:60%;
    padding: 20px;
    margin-right: 20px;
-   background-color: #62724e;
+   background-color: #627542;
    border-radius: 15px;
    border: 1px #f0e6e6;
    text-align: center;
@@ -322,7 +322,7 @@ footer {
 .contact-form h1 {
     font-size: 200%;
     margin: 30px;
-    color: #7a8e57;
+    color:  #627542;
     margin-bottom: 47px;
 }
 
@@ -345,7 +345,7 @@ footer {
     font-size: 120%;
     justify-content: center;
     margin-top: 15px;
-    background:#7a8e57;
+    background: #627542;
     padding: 10px 0;
     color: white;
     text-transform: uppercase;
