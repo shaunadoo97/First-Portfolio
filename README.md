@@ -1,3 +1,5 @@
+<img src="assets/documentation/responsive .png">
+
 Hello. welcome to my first Portfolio Project 
 I've made a page about my art
 
@@ -7,10 +9,15 @@ I've made a page about my art
 
 [My wireframes](#my-wireframes "Go to my-wireframes")
 
-[My Colour Schemes](#my-colour-schemes "Go to my-wireframes")
+[My Colour Schemes](#my-colour-schemes "Go to my-colour-schemes")
 
+[General](#general "Go to general")
 
-[ Deployment ](#deployment  "Go to my-wireframes")
+[ Testing and Code Validation](#testing-and-code-validation "Go to my-wireframes")
+
+[Accessibility](#accessibilty "Go to my-wireframes")
+
+[ Deployment ](#deployment  "Go to my-deployment")
 
 ## User Stories
 ### The goal of a first time user to the Art Page website:
@@ -72,7 +79,11 @@ This is to talk about what I've included in my site.
 <li>I've included the 3 working images</li>
 </ol>
 
+## Accessibility 
+I've used Lighthouse in Chrome Devtools to confirm and test my site is running okay. 
 
+Lighthouse reports on the Home Page
+<img src="assets/documentation/lighthouse_results.png">
 
 ## Deployment 
 <summary><a>How I deployed my project.</a></summary>
@@ -96,11 +107,27 @@ Click save after this step and a confirmation of deployment should be confirmed 
 To know this, a green colored box with message is received saying "Your site is published at" with a web address. 
 
 
-# Testing 
+## Testing and Code Validation
 
-So far, index.html and gallery.html has been tested with no errors.
+To test and validate my codes to ensure there are no errors, I've used W3C Markup Validator
+to test all of the pages. 
+So far, index.html gallery.html and contact.html has been tested with no errors.
 
-<img src="assets/documentation/code_screenshot.png" width="400" height="200">
+Home Page
+
+<img src="assets/documentation/html.png" width="400" height="200">
+
+Gallery 
+
+<img src="assets/documentation/gallery html.png" width="400" height="200">
+
+Contact 
+
+<img src="assets/documentation/contact.png" width="400" height="200">
+
+I've also used W3C CSS Validation Service to check if there are no errors in my CSS
+
+<img src="assets/documentation/css .png" width="400" height="200"> 
 
 ## Credits and Codes
 
