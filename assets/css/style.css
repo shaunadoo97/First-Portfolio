@@ -7,8 +7,7 @@
     margin: 0;
     box-sizing: border-box;
     text-decoration: none;
-    list-style-type: none;
-    
+    list-style-type: none;  
 }
 
 /* General styles */
@@ -30,18 +29,13 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    z-index: 100; 
-   
-
-    
+    z-index: 100;   
 }
 
-
 #logo {
-   
+
     font-size: 2rem;
     color: white;
-   
 }
 
 
@@ -49,17 +43,12 @@ ul li {
 
     display: inline-block;
     margin-right: 40px;
-    font-size: 20px;  
-    
-    
+    font-size: 20px;   
 }
 
 ul li a {
     color: white;
 }
-
-
-
 
 /* Main content */
 /* Making main element take up any surplus space to push footer down */
@@ -68,12 +57,10 @@ main {
     background-color: #353d40;
     flex: 1 0 auto;
     color: white;
-    margin-top:20px;
-    
+    margin-top:20px; 
 }
 
 /**Heading of About me for Homepage refernce from Learn Web**/
-
 
 #about {
     position: relative;
@@ -94,10 +81,9 @@ main {
     justify-content: space-between;
     width: 80%;
     height:50%;
-    padding:15px;
-    
-   
+    padding:15px; 
 }
+
 #text-container {
   
     float: right;
@@ -118,6 +104,7 @@ main {
 
 }
 
+/** adding styles to Introduction about myself and my work**/
 .all-intro {
     display: flex;
     flex-direction: row;
@@ -132,8 +119,6 @@ main {
     padding: 15px;
     border-radius: 15px;
     margin-left: 10%;
-    
-
 
 }
 
@@ -142,7 +127,7 @@ main {
     margin-left: 15%;
 }
 
-
+/**Inserting the process stages of how work is done**/
 #step-container {
     position: relative;
     width: auto;
@@ -157,6 +142,7 @@ main {
     justify-content: space-evenly;
     margin: 20px;
 }
+
 #process {
     position: relative;
     width:50%;
@@ -165,8 +151,7 @@ main {
     flex-direction: column;
     text-align: center;
     padding: 15px;
-    margin: 30px auto;
-    
+    margin: 30px auto; 
 }
 
 #instructions {
@@ -180,6 +165,7 @@ main {
     font-size: 150%;
     background-color: #627542;
     border-radius: 5px;
+    padding: 10px;
 }
 
     
@@ -199,8 +185,7 @@ main {
     padding: 15px;
     margin: auto;
     font-size: 280%;
-    text-align: center;
-   
+    text-align: center; 
 }
 
 #overall {
@@ -220,8 +205,6 @@ main {
    border: 1px #f0e6e6;
    text-align: center;
 }
-
-
 
 /***Social Medias to be represented at bottom ***/
 #social-media {
@@ -338,6 +321,16 @@ footer {
 
     }
 
+    #intro {
+        width: 100%;
+        padding: 15px;
+        font-size: 80%;
+        line-height: 150%;
+        margin: auto;
+    }
+
+  
+
     .all-intro {
         flex-wrap: wrap;
         padding-left: 15px;
@@ -348,8 +341,16 @@ footer {
         flex-wrap: wrap;
     }
 
+    .how {
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 15px;
+       
+    }
+
     #instructions {
         flex-wrap: wrap;
+        text-align: center;
     }
 
     .steps {
@@ -357,11 +358,21 @@ footer {
     }
 
     #commissions {
-        font-size: 200%;
+        font-size: 150%;
+    }
+
+    .texts {
+        margin-bottom: 10px;
+        font-size: 100%;
+        margin-left: 20px;
     }
 
     #process {
         width: 100%;
+    }
+
+    #progress {
+        flex-wrap: wrap;
     }
 
     #my-gallery {
