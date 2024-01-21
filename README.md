@@ -41,15 +41,16 @@ I've made a page about my art
 These are my wireframes that i hope to aim for the final product.
 Website:
 
-<img src="assets/documentation/Website Home.png" width="400" height="200"> 
-<img src="assets/documentation/Website Gallery .png" width="400" height="200"> 
-<img src="assets/documentation/Website Contact .png" width="400" height="200"> 
+<img src="assets/documentation/website_home.png" width="400" height="200"> 
+<img src="assets/documentation/website_home2.png" width="400" height="200">
+<img src="assets/documentation/website_gallery.png" width="400" height="200">  
+<img src="assets/documentation/website_contact.png" width="400" height="200"> 
 
 Phone: 
 
-<img src="assets/documentation/Home Phone.png" width="250" height="400">
-<img src="assets/documentation/Gallery Phone.png" width="250" height="400">
-<img src="assets/documentation/Contact Phone.png" width="250" height="400">
+<img src="assets/documentation/home_phone.png" width="250" height="400">
+<img src="assets/documentation/gallery_phone.png" width="250" height="400">
+<img src="assets/documentation/contact_phone.png" width="250" height="400">
 
 ## My Colour Schemes 
 This is my color scheme: 
