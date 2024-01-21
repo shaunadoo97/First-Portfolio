@@ -132,8 +132,13 @@ I've also used W3C CSS Validation Service to check if there are no errors in my 
 
 ## Credits and Codes
 
-Ensuring that I will mention and credit to those who helped me.
+Ensuring that I will mention and credit to those who helped me with my project to try understand now things work.
+I used Love Running Navbar and Footer to help me get started but tweaked in my own ways.
 
-Links:
+Home Page - Love Running Project to help me get started, then moving on from there to set my own homepage up. 
 
-YouTube:
+Gallery: https://www.youtube.com/watch?v=VoiTgM8yjc8&list=LL&index=4 I used this to try help me guide until i start tweaking it to my own liking aswell as applying my own media queries to it. 
+
+Contact form: https://www.youtube.com/watch?v=f0DcnrpeBv8 I used this to try learn how to form a contact form and then moved on to tweak to my own liking. 
+
+Also thank you to my menot for his advice/feedbacks on how I could improve my project.
