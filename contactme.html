@@ -13,86 +13,65 @@
 
 <body>
 
-   
+    <!--Adding in the Header and a Nav-bar-->
     <header id="header">
         <a href="index.html">
             <h1 id="logo"> Shauna's Art Page</h1>
         </a>
-      
+
         <nav class="navbar">
-            <ul >
+            <ul>
                 <li><a href="index.html">Home</a></li>
                 <li><a href="gallery.html">Gallery</a></li>
                 <li><a href="contactme.html">Contact Me</a></li>
-            </ul>                                                                                                                                 
+            </ul>
         </nav>
     </header>
 
+    <br>
 
-   <br>
-<main>
+    <main>
 
+        <!--refernece from learn page but tweaked in my own way-->
+        <section class="contact-form">
+            <div> </div>
+            <form method="post">
+                <h2>Contact Us</h2>
+                <div class="txtb">
+                    <label>Full Name</label>
+                    <input type="text" name="full_name" placeholder="Enter Your Name" required>
+                </div>
 
- <!--refernece from learn page but tweaked in my own way-->
- 
- <section class="contact-form">
-    <div > </div>
-      <form method="post"> 
-        <h2>Contact Us</h2>
-       <div class="txtb">
-        <label>Full Name</label>
-        <input type="text" name="full_name"  placeholder="Enter Your Name" required> 
-       </div>
-       
-       <div class="txtb">
-        <label>Email</label>
-        <input type="text" name="email"  placeholder="Enter Your Email" required> 
-       </div>
+                <div class="txtb">
+                    <label>Email</label>
+                    <input type="text" name="email" placeholder="Enter Your Email" required>
+                </div>
 
-       <div class="txtb">
-        <label>Phone Number</label>
-        <input type="text" name="phone_number" placeholder="Enter Your Phone Number" required> 
-       </div>
+                <div class="txtb">
+                    <label>Phone Number</label>
+                    <input type="text" name="phone_number" placeholder="Enter Your Phone Number" required>
+                </div>
 
-       <div class="txtb">
-        <label>Leave a Message Below</label>
-       <textarea name="message" rows="8" cols="25" placeholder="Leave a Message."></textarea>
-       </div>
+                <div class="txtb">
+                    <label>Leave a Message Below</label>
+                    <textarea name="message" rows="15" cols="32" placeholder="Leave a Message."></textarea>
+                </div>
 
-       <button type="submit" class="btn">Send Message</button>
+                <button type="submit" class="btn">Send Message</button>
+            </form>
+        </section>
+    </main>
 
-
-
-
-      </form>
-       
-      
-
- </section>
-     
-
-      
-
-
-</main>
-   
-
-    
-        
-
-
-
-
-
+    <!--Inserting the Social Media links here, used reference from Love Running-->
     <footer>
         <div>
             <ul id="social-media">
                 <li><a href="https://www.facebook.com/DeafArtist15/" target="_blank" rel="noopener"><i
                             class="fa-brands fa-facebook" aria-label="This is my Facebook page"></i></a></li>
                 <li><a href="https://www.instagram.com/deafartist15/" target="_blank" rel="noopener"><i
-                            class="fa-brands fa-instagram"  aria-label="This is my Instagram page"></i></a></li>
+                            class="fa-brands fa-instagram" aria-label="This is my Instagram page"></i></a></li>
                 <li><a href="https://www.youtube.com/channel/UCYVpx5C5cDBI3JOtl6RbcHQ" target="_blank" rel="noopener"><i
-                            class="fa-brands fa-youtube"  aria-label="This is my YouTube page"></i></a></li>
+                            class="fa-brands fa-youtube" aria-label="This is my YouTube page"></i></a></li>
             </ul>
         </div>
     </footer>
