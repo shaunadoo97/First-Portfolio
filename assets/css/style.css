@@ -311,6 +311,7 @@ footer {
 }
 
 /**Media queries**/
+/**Phone Screen sizes**/
 
 @media screen and (max-width: 576px) {
 
@@ -390,16 +391,35 @@ footer {
 
     
 }
-
-
-  
-@media screen and (min-width:679px) {
-
-}
-
-    
         
-   
-@media screen and (min-width: 768px) {
+ /**For Tablets**/  
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+
+    #about {
+        margin-top: 5%;
+    }
+
+    .all-intro {
+        flex-wrap: wrap;
+
+    }
+
+    #intro {
+        width: 70%;
+        margin-top: 20px;
+        padding: 16px;
+        font-size: 120%;
+    }
     
+    #my-gallery {
+        width: 100%;
+        margin-top: 5%;
+    }
+
+    .responsive-gallery {
+    width: 35%;
+    margin-left: 10%;
+    padding: 10px;
+    margin-bottom: 10px;
+    }
 }
