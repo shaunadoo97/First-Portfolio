@@ -78,15 +78,18 @@ This is to talk about what I've included in my site.
 <li>The footer is placed fix at the end of the screen</li>
 <li>It has 3 different links which are for Facebook, Instagram and YouTube</li>
 </ol>
+<img src="assets/documentation/footer.jpg">
 
 <ol>Homepage
 <li>The home page will contain an image of myself being introduced and show people visually on what I can do</li>
 <li>There is a progress section at the end to show step by step how I work on my art pieces</li>
 
-<img src="assets/documentation/stepbystep.jpg"  width="250" height="400">
+<img src="assets/documentation/starthome_page.jpg"  width="350" height="400">
 
 <li>I've included the 3 working images  </li>
 </ol>
+
+<img src="assets/documentation/stepbystep.jpg"  width="250" height="400">
 
 <img src="assets/documentation/art_progress.jpg"  width="470" height="200">
 
@@ -125,7 +128,7 @@ In the build and deployment section, click the Branch and a dropdown menu will a
 
 Click save after this step and a confirmation of deployment should be confirmed shortly. 
 
-To know this, a green colored box with message is received saying "Your site is published at" with a web address. 
+To know this, a green colored box with message is received saying "Your site is published at" with a web address. My website is live at : https://shaunadoo97.github.io/First-Portfolio/
 
 
 ## Testing and Code Validation
