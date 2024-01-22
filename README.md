@@ -108,9 +108,7 @@ Lighthouse reports on the Home Page
 <img src="assets/documentation/lighthouse_results.png">
 
 ## Deployment 
-<summary><a>How I deployed my project.</a></summary>
-<details open>
-
+How I deployed my project.
 
 My project was deployed by using the Github pages. 
 
