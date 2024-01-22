@@ -54,7 +54,7 @@ Phone:
 
 ## My Colour Schemes 
 This is my color scheme: 
-<img src="assets/documentation/colour.png" >
+<img src="assets/documentation/scheme.jpg" >
 
 I chose these to be my colours,it's not easy choosing for a background when my art pieces
 have lots of bright vibrant colours involved. so this is why I thought it was best to do 
@@ -63,7 +63,7 @@ a dark background to help make my work stand out. I chose green to be for the le
 ## General 
 
 This is to talk about what I've included in my site. 
-<ol>Home Page
+<ol>Header
 <li>My header contains a Navigation Bar that should be responsive to all screen sizes</li>
 <li> The Logo to the left functions as a link back to the Home page</li>
 <li>It has 3 seperate links to go to different pages such as home page, gallery and contact us. </li>
@@ -77,8 +77,16 @@ This is to talk about what I've included in my site.
 <ol>Homepage
 <li>The home page will contain an image of myself being introduced and show people visually on what I can do</li>
 <li>There is a progress section at the end to show step by step how I work on my art pieces</li>
-<li>I've included the 3 working images</li>
+<li>I've included the 3 working images  </li>
 </ol>
+
+<img src="assets/documentation/art_progress.jpg"  width="440" height="200">
+
+<ol> Gallery 
+<li> The Gallery is where I can show visually the style of art I like</li>
+<li> On a desktop, a row of 4 images will show, on a tabelt will show two and then on the phone it will be showing each picture individually </li>
+</ol>
+<img src="assets/documentation/overalls.jpg" width="800" height="500">
 
 ## Accessibility 
 I've used Lighthouse in Chrome Devtools to confirm and test my site is running okay. 
