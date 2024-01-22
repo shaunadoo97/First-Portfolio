@@ -81,10 +81,13 @@ This is to talk about what I've included in my site.
 <ol>Homepage
 <li>The home page will contain an image of myself being introduced and show people visually on what I can do</li>
 <li>There is a progress section at the end to show step by step how I work on my art pieces</li>
+
+<img src="assets/documentation/stepbystep.jpg"  width="250" height="400">
+
 <li>I've included the 3 working images  </li>
 </ol>
 
-<img src="assets/documentation/art_progress.jpg"  width="440" height="200">
+<img src="assets/documentation/art_progress.jpg"  width="470" height="200">
 
 <ol> Gallery 
 <li> The Gallery is where I can show visually the style of art I like</li>
