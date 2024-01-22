@@ -1,4 +1,4 @@
-<img src="assets/documentation/responsive .png">
+<img src="assets/documentation/responsives.png" width="800" height="400">
 
 Hello. welcome to my first Portfolio Project 
 I've made a page about my art
@@ -13,11 +13,15 @@ I've made a page about my art
 
 [General](#general "Go to general")
 
-[ Testing and Code Validation](#testing-and-code-validation "Go to my-wireframes")
+[Testing and Code Validation](#testing-and-code-validation "Go to my-wireframes")
 
-[Accessibility](#accessibilty "Go to my-wireframes")
+[Accessibility](#accessibility  "Go to my-accessibility")
 
-[ Deployment ](#deployment  "Go to my-deployment")
+[Deployment ](#deployment "Go to my-deployment")
+
+[Testing and Code Validation](#testing-and-code-validation "testing-and-code-validation")
+
+[Credits and Codes](#credits-and-code "testing-and-code-validation")
 
 ## User Stories
 ### The goal of a first time user to the Art Page website:
@@ -122,15 +126,15 @@ To test and validate my codes to ensure there are no errors, I've used W3C Marku
 to test all of the pages. 
 So far, index.html gallery.html and contact.html has been tested with no errors.
 
-Home Page
+Home Page html
 
 <img src="assets/documentation/html.png" width="400" height="200">
 
-Gallery 
+Gallery html
 
 <img src="assets/documentation/gallery html.png" width="400" height="200">
 
-Contact 
+Contact html
 
 <img src="assets/documentation/contact.png" width="400" height="200">
 
@@ -149,4 +153,4 @@ Gallery: https://www.youtube.com/watch?v=VoiTgM8yjc8&list=LL&index=4 I used this
 
 Contact form: https://www.youtube.com/watch?v=f0DcnrpeBv8 I used this to try learn how to form a contact form and then moved on to tweak to my own liking. 
 
-Also thank you to my menot for his advice/feedbacks on how I could improve my project.
+Also thank you to my mentor for his advice/feedbacks on how I could improve my project.
