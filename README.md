@@ -20,9 +20,9 @@ This is where I would like to use a website to help promote my work and show the
 
 [Deployment ](#deployment "Go to my-deployment")
 
-[Testing and Code Validation](#testing-and-code-validation "testing-and-code-validation")
+[Testing and Code Validation](#testing-and-code-validation "Go to testing-and-code-validation")
 
-[Credits and Codes](#credits-and-code "testing-and-code-validation")
+[Credits and Codes](#credits-and-code "Go to credits-and-codes")
 
 ## User Stories
 ### The goal of a first time user to the Art Page website:
