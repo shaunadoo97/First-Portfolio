@@ -1,7 +1,8 @@
 <img src="assets/documentation/responsives.png" width="800" height="400">
 
 Hello. welcome to my first Portfolio Project 
-I've made a page about my art
+I've made a page about my art.
+This is where I would like to use a website to help promote my work and show the type of digital work that I can make. 
 
 ## Contents 
 
