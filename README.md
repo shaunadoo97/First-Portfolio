@@ -92,6 +92,12 @@ This is to talk about what I've included in my site.
 </ol>
 <img src="assets/documentation/overalls.jpg" width="800" height="500">
 
+<ol> Contact Me
+<li> The Contact page is where peopel would be able to request for an art commission off me</li>
+<li> I've included the required action in the inputs so you can not submit without putting the information in</li>
+</ol>
+<img src="assets/documentation/contact.jpg">
+
 ## Accessibility 
 I've used Lighthouse in Chrome Devtools to confirm and test my site is running okay. 
 
