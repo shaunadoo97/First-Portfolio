@@ -172,7 +172,8 @@ I used Love Running Navbar and Footer to help me get started but tweaked in my o
 
 Home Page - Love Running Project to help me get started, then moving on from there to set my own homepage up. 
 Also tried to use https://www.youtube.com/watch?v=oLgtucwjVII&t=48s as practice at first but didn't like how my page looked so I changed it completely. 
-For the About me part, I liked the start of the video and used as a guidance but again. changed it to my own liking: https://www.youtube.com/watch?v=lgX38fNbxmw&list=LL&index=9&t=192s
+I've practiced using this as refernce but didn't stick to it: https://www.youtube.com/watch?v=lgX38fNbxmw&list=LL&index=9
+For the About me part, I liked the start of the video and used as a guidance but again. changed it to my own liking: https://www.youtube.com/watch?v=Rqo_1TV7wQs&list=LL&index=11
 
 Gallery: https://www.youtube.com/watch?v=VoiTgM8yjc8&list=LL&index=4 I used this to try help me guide until i start tweaking it to my own liking aswell as applying my own media queries to it. 
 I also tried and practiced to understand how flex-box works but didn't stick with this reference as i changed it : https://www.youtube.com/watch?v=Fs5BVSS6b3M&list=LL&index=8 
