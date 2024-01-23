@@ -22,7 +22,7 @@ This is where I would like to use a website to help promote my work and show the
 
 [Testing and Code Validation](#testing-and-code-validation "Go to testing-and-code-validation")
 
-[Credits and Codes](#credits-and-code "Go to credits-and-codes")
+[Credits and Codes](#credits-and-codes "Go to credits-and-codes")
 
 ## User Stories
 ### The goal of a first time user to the Art Page website:
@@ -72,47 +72,60 @@ This is to talk about what I've included in my site.
 <li>My header contains a Navigation Bar that should be responsive to all screen sizes</li>
 <li> The Logo to the left functions as a link back to the Home page</li>
 <li>It has 3 seperate links to go to different pages such as home page, gallery and contact us. </li>
+<li> all links in the bar works great and will bring you to each page.</li>
 </ol>
+<img src="assets/documentation/navbar.jpg" width="450" height="60">
 
 <ol>Footer
 <li>The footer is placed fix at the end of the screen</li>
 <li>It has 3 different links which are for Facebook, Instagram and YouTube</li>
+<li> All links work and run great as it will bring you to seperate external tabs</li>
 </ol>
-<img src="assets/documentation/footer.jpg">
+<img src="assets/documentation/footer.jpg" width="450" height="40">
 
 <ol>Homepage
 <li>The home page will contain an image of myself being introduced and show people visually on what I can do</li>
-<li>There is a progress section at the end to show step by step how I work on my art pieces</li>
 
 <img src="assets/documentation/starthome_page.jpg"  width="350" height="400">
 
+<li>There is a progress section at the end to show step by step how I work on my art pieces</li>
+
+<img src="assets/documentation/stepbystep.jpg"  width="270" height="400">
+
 <li>I've included the 3 working images  </li>
 </ol>
-
-<img src="assets/documentation/stepbystep.jpg"  width="250" height="400">
 
 <img src="assets/documentation/art_progress.jpg"  width="470" height="200">
 
 <ol> Gallery 
 <li> The Gallery is where I can show visually the style of art I like</li>
-<li> On a desktop, a row of 4 images will show, on a tabelt will show two and then on the phone it will be showing each picture individually </li>
+<li> On a desktop, a row of 4 images will show, on a tablet will show two rows and then on the phone it will be showing each picture individually scrolling down</li>
 </ol>
 <img src="assets/documentation/overalls.jpg" width="800" height="500">
 
 <ol> Contact Me
-<li> The Contact page is where peopel would be able to request for an art commission off me</li>
+<li> The Contact page is where people would be able to request for an art commission off me</li>
 <li> I've included the required action in the inputs so you can not submit without putting the information in</li>
 </ol>
 <img src="assets/documentation/contact.jpg">
+
+<ol> Submit button feature 
+
+<li> Unfortunately I've tried to include a thank you page but it did not turn out great for me and I had no time to finish this part</li>
+<li>I've tried to include a thank you html but with time running out, I had to leave it remain unfinished</li>
+<li>however I do plan on learning this part again and I will understand how this feature works soon enough.</li>
+</ol> 
+<img src="assets/documentation/error.jpg">
+
 
 ## Accessibility 
 I've used Lighthouse in Chrome Devtools to confirm and test my site is running okay. 
 
 Lighthouse reports on the Home Page
-<img src="assets/documentation/lighthouse_results.png">
+<img src="assets/documentation/updated_lighthouse.jpg">
 
 ## Deployment 
-How I deployed my project.
+How I deployed my project:
 
 My project was deployed by using the Github pages. 
 
@@ -128,13 +141,12 @@ In the build and deployment section, click the Branch and a dropdown menu will a
 
 Click save after this step and a confirmation of deployment should be confirmed shortly. 
 
-To know this, a green colored box with message is received saying "Your site is published at" with a web address. My website is live at : https://shaunadoo97.github.io/First-Portfolio/
-
+To know this, a green colored box with message is received saying "Your site is published at" with a web address. My website is live at : 
 
 ## Testing and Code Validation
 
 To test and validate my codes to ensure there are no errors, I've used W3C Markup Validator
-to test all of the pages. 
+to test all of the pages: https://validator.w3.org/
 So far, index.html gallery.html and contact.html has been tested with no errors.
 
 Home Page html
@@ -149,7 +161,7 @@ Contact html
 
 <img src="assets/documentation/contact.png" width="400" height="200">
 
-I've also used W3C CSS Validation Service to check if there are no errors in my CSS
+I've also used W3C CSS Validation Service to check if there are no errors in my CSS: https://jigsaw.w3.org/css-validator/
 
 <img src="assets/documentation/css .png" width="400" height="200"> 
 
@@ -159,9 +171,13 @@ Ensuring that I will mention and credit to those who helped me with my project t
 I used Love Running Navbar and Footer to help me get started but tweaked in my own ways.
 
 Home Page - Love Running Project to help me get started, then moving on from there to set my own homepage up. 
+Also tried to use https://www.youtube.com/watch?v=oLgtucwjVII&t=48s as practice at first but didn't like how my page looked so I changed it completely. 
+For the About me part, I liked the start of the video and used as a guidance but again. changed it to my own liking: https://www.youtube.com/watch?v=lgX38fNbxmw&list=LL&index=9&t=192s
 
 Gallery: https://www.youtube.com/watch?v=VoiTgM8yjc8&list=LL&index=4 I used this to try help me guide until i start tweaking it to my own liking aswell as applying my own media queries to it. 
+I also tried and practiced to understand how flex-box works but didn't stick with this reference as i changed it : https://www.youtube.com/watch?v=Fs5BVSS6b3M&list=LL&index=8 
+My mentor helped me with the flex-box/wrap for my media queries.
 
-Contact form: https://www.youtube.com/watch?v=f0DcnrpeBv8 I used this to try learn how to form a contact form and then moved on to tweak to my own liking. 
+Contact form: https://www.youtube.com/watch?v=f0DcnrpeBv8 I used this to try learn how to create a contact form and then moved on to tweak to my own liking. 
 
-Also thank you to my mentor for his advice/feedbacks on how I could improve my project.
+Also thank you to my mentor, Rory, for his advice/feedbacks on how I could improve my project.
